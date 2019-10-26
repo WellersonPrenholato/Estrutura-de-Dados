@@ -17,7 +17,7 @@ int main( void )
     heapsort(vetor, 8);
     for ( int i = 0; i < 8; i++ ) printf("%-4d", vetor[ i ]);
     puts("");
-	vetor2 = realloc(vetor2, 9*sizeof(int ));
+	vetor2 = (int *)realloc(vetor2, 9*sizeof(int ));
     // End Test
 }
  
