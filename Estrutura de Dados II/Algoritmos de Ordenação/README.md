@@ -13,6 +13,7 @@ Algoritmo de ordenação é um algoritmo que coloca os elementos de uma dada seq
 ---
 [Algoritmos de Ordenação]: https://pt.wikipedia.org/wiki/Algoritmo_de_ordena%C3%A7%C3%A3o
 
+### Algoritmos implementados:
 - QuickSort
 - MergeSort
 - HeapSort
